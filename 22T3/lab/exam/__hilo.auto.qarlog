@@ -1,0 +1,30 @@
+Quartus II Archive log --	D:/code/3222/lab/exam/__hilo.auto.qarlog
+
+Archive:	D:/code/3222/lab/exam/__hilo.auto.qar
+Date:		Thu Dec 01 13:26:25 2022
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+D:/code/3222/lab/exam/db/hilo.cbx.xml
+D:/code/3222/lab/exam/db/hilo.qpf
+__hilo.auto.qarlog
+c:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf
+controlpath.vhd
+datapath.vhd
+display_controller.vhd
+hilo.archive.rpt
+hilo.flow.rpt
+hilo.map.rpt
+hilo.map.summary
+hilo.qarlog
+hilo.qsf
+hilo.restore.rpt
+hilo.sof
+hilo.vhd
+hilo.vwf
+package.vhd
+seg7.vhd
+	======= Total: 19 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

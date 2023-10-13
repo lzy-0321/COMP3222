@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Mando/Desktop/3222/lab3/L3P2_restored/L3P2.vwf
+source_file = 1, C:/Users/Mando/Desktop/3222/lab3/L3P2_restored/L3P2.vhd
+source_file = 1, C:/Users/Mando/Desktop/3222/lab3/L3P2_restored/db/L3P2.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = L3P2
+instance = comp, \Clk~input , Clk~input, L3P2, 1
+instance = comp, \Q~output , Q~output, L3P2, 1
+instance = comp, \D~input , D~input, L3P2, 1

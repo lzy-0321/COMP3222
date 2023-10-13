@@ -1,0 +1,16 @@
+Quartus II Archive log --	D:/code/3222/lab/lab9-p1B/part1.qarlog
+
+Archive:	D:/code/3222/lab/lab9-p1B/part1.qar
+Date:		Mon Nov 07 18:57:24 2022
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+D:/code/3222/lab/lab9-p1B/incremental_db/compiled_partitions/part1.db_info
+D:/code/3222/lab/lab9-p1B/part1.qpf
+D:/code/3222/lab/lab9-p1B/part1.qsf
+D:/code/3222/lab/lab9-p1B/part1.vhd
+c:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

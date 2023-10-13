@@ -1,0 +1,78 @@
+Archive Project report for L3P2b
+Sun Oct 08 10:57:16 2023
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Sun Oct 08 10:57:16 2023 ;
+; Revision Name          ; L3P2b                                 ;
+; Top-level Entity Name  ; L3P2b                                 ;
+; Family                 ; Cyclone III                           ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/Users/Mando/Desktop/3222/lab3/L3P2b/L3P2b.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'L3P2b.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/13.0sp1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4461 megabytes
+    Info: Processing ended: Sun Oct 08 10:57:16 2023
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:00
+
+
++---------------------------------------------------------+
+; Files Archived                                          ;
++---------------------------------------------------------+
+; File Name                                               ;
++---------------------------------------------------------+
+; c:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf ;
+; incremental_db/compiled_partitions/L3P2b.db_info        ;
+; L3P2a.vhd                                               ;
+; L3P2b.qpf                                               ;
+; L3P2b.qsf                                               ;
+; L3P2b.vhd                                               ;
++---------------------------------------------------------+
+
+

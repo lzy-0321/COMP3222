@@ -1,0 +1,16 @@
+Quartus II Archive log --	C:/Users/Mando/Desktop/3222/lab3/L3P2a/L3P2a.qarlog
+
+Archive:	C:/Users/Mando/Desktop/3222/lab3/L3P2a/L3P2a.qar
+Date:		Sun Oct 08 10:55:57 2023
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Mando/Desktop/3222/lab3/L3P2a/L3P2a.qpf
+C:/Users/Mando/Desktop/3222/lab3/L3P2a/L3P2a.qsf
+C:/Users/Mando/Desktop/3222/lab3/L3P2a/incremental_db/compiled_partitions/L3P2a.db_info
+C:/Users/Mando/Desktop/3222/lab3/L3P2b/L3P2a.vhd
+c:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

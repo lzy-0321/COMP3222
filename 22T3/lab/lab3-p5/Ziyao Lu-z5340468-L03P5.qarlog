@@ -1,0 +1,27 @@
+Quartus II Archive log --	C:/Users/Ziyao/Desktop/Ziyao Lu-z5340468-L03P5.qarlog
+
+Archive:	C:/Users/Ziyao/Desktop/Ziyao Lu-z5340468-L03P5.qar
+Date:		Mon Oct 10 21:48:38 2022
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf
+D:/code/3222/lab/lab3-p5/__lab3p5.auto.qarlog
+D:/code/3222/lab/lab3-p5/lab3p5.qpf
+D:/code/3222/lab/lab3-p5/lab3p5.qsf
+D:/code/3222/lab/lab3-p5/lab3p5.vhd
+D:/code/3222/lab/lab3-p5/output_files/lab3p5.archive.rpt
+D:/code/3222/lab/lab3-p5/output_files/lab3p5.flow.rpt
+D:/code/3222/lab/lab3-p5/output_files/lab3p5.map.rpt
+D:/code/3222/lab/lab3-p5/output_files/lab3p5.map.summary
+c:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 10 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Mon Oct 10 21:48:58 2022
+Source archive file:	D:/code/3222/lab/lab3-p5/Ziyao Lu-z5340468-L03P5.qar
+Archive was extracted into	D:/code/3222/lab/lab3-p5/Ziyao Lu-z5340468-L03P5_restored/
+		 - successfully.

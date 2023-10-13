@@ -1,0 +1,23 @@
+Quartus II Archive log --	D:/code/3222/lab/lab1-p3/L1P3_restored/Ziyao-z5340468-L01P3.qarlog
+
+Archive:	D:/code/3222/lab/lab1-p3/L1P3_restored/Ziyao-z5340468-L01P3.qar
+Date:		Mon Sep 26 23:16:47 2022
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+D:/code/3222/lab/lab1-p3/L1P3_restored/L1P3.qpf
+D:/code/3222/lab/lab1-p3/L1P3_restored/L1P3.qsf
+D:/code/3222/lab/lab1-p3/L1P3_restored/L1P3.vhd
+D:/code/3222/lab/lab1-p3/L1P3_restored/L1P3.vwf
+D:/code/3222/lab/lab1-p3/L1P3_restored/assignment_defaults.qdf
+D:/code/3222/lab/lab1-p3/L1P3_restored/incremental_db/compiled_partitions/L1P3.db_info
+	======= Total: 6 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Mon Oct 03 18:28:24 2022
+Source archive file:	D:/code/3222/lab/lab1-p3/L1P3_restored/Ziyao Lu-z5340468-L01P3.qar
+Archive was extracted into	C:/Users/Ziyao/Desktop/
+		 - successfully.

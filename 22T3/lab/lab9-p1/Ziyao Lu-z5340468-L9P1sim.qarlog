@@ -1,0 +1,16 @@
+Quartus II Archive log --	D:/code/3222/lab/lab9-p1/Ziyao Lu-z5340468-L9P1sim.qarlog
+
+Archive:	D:/code/3222/lab/lab9-p1/Ziyao Lu-z5340468-L9P1sim.qar
+Date:		Mon Nov 07 18:56:49 2022
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+D:/code/3222/lab/lab9-p1/L9P1sim.qpf
+D:/code/3222/lab/lab9-p1/L9P1sim.qsf
+D:/code/3222/lab/lab9-p1/L9P1sim.vhd
+D:/code/3222/lab/lab9-p1/assignment_defaults.qdf
+D:/code/3222/lab/lab9-p1/incremental_db/compiled_partitions/L9P1sim.db_info
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

@@ -1,0 +1,17 @@
+Quartus II Archive log --	D:/code/3222/lab/lab1-p5/Ziyao Lu-z5340468-L01P5.qarlog
+
+Archive:	D:/code/3222/lab/lab1-p5/Ziyao Lu-z5340468-L01P5.qar
+Date:		Mon Sep 26 23:19:04 2022
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+D:/code/3222/lab/lab1-p5/L1P5.qpf
+D:/code/3222/lab/lab1-p5/L1P5.qsf
+D:/code/3222/lab/lab1-p5/L1P5.vhd
+D:/code/3222/lab/lab1-p5/L1P5.vwf
+D:/code/3222/lab/lab1-p5/assignment_defaults.qdf
+D:/code/3222/lab/lab1-p5/incremental_db/compiled_partitions/L1P5.db_info
+	======= Total: 6 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

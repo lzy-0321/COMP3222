@@ -1,0 +1,21 @@
+Quartus II Archive log --	D:/code/3222/lab/lab3-p5/__lab3p5.auto.qarlog
+
+Archive:	D:/code/3222/lab/lab3-p5/__lab3p5.auto.qar
+Date:		Mon Oct 10 21:48:38 2022
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+D:/code/3222/lab/lab3-p5/db/lab3p5.cbx.xml
+D:/code/3222/lab/lab3-p5/db/lab3p5.qpf
+D:/code/3222/lab/lab3-p5/output_files/lab3p5.archive.rpt
+D:/code/3222/lab/lab3-p5/output_files/lab3p5.flow.rpt
+D:/code/3222/lab/lab3-p5/output_files/lab3p5.map.rpt
+D:/code/3222/lab/lab3-p5/output_files/lab3p5.map.summary
+__lab3p5.auto.qarlog
+c:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf
+lab3p5.qsf
+lab3p5.vhd
+	======= Total: 10 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

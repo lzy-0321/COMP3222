@@ -1,0 +1,16 @@
+Quartus II Archive log --	D:/code/3222/lab/lab3-p2a/Ziyao Lu-z5340468-L03P2.qarlog
+
+Archive:	D:/code/3222/lab/lab3-p2a/Ziyao Lu-z5340468-L03P2.qar
+Date:		Mon Oct 10 21:45:18 2022
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+D:/code/3222/lab/lab3-p2a/incremental_db/compiled_partitions/lab3p2a.db_info
+D:/code/3222/lab/lab3-p2a/lab3p2a.qpf
+D:/code/3222/lab/lab3-p2a/lab3p2a.qsf
+D:/code/3222/lab/lab3-p2a/lab3p2a.vhd
+c:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

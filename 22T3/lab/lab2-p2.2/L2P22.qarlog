@@ -1,0 +1,17 @@
+Quartus II Archive log --	D:/code/3222/lab/lab2-p2.2/L2P22.qarlog
+
+Archive:	D:/code/3222/lab/lab2-p2.2/L2P22.qar
+Date:		Mon Oct 03 18:44:56 2022
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+D:/code/3222/lab/lab2-p2.2/L2P22.qpf
+D:/code/3222/lab/lab2-p2.2/L2P22.qsf
+D:/code/3222/lab/lab2-p2.2/L2P22.vhd
+D:/code/3222/lab/lab2-p2.2/L2P22.vwf
+D:/code/3222/lab/lab2-p2.2/assignment_defaults.qdf
+D:/code/3222/lab/lab2-p2.2/incremental_db/compiled_partitions/L2P22.db_info
+	======= Total: 6 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

@@ -1,0 +1,178 @@
+$comment
+	File created using the following command:
+		vcd file L3P4.msim.vcd -direction
+$end
+$date
+	Thu Oct 05 20:49:42 2023
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module L3P4_vlg_vec_tst $end
+$var reg 1 ! Clock $end
+$var reg 1 " D $end
+$var wire 1 # Qa $end
+$var wire 1 $ Qb $end
+$var wire 1 % Qc $end
+$var wire 1 & sampler $end
+$scope module i1 $end
+$var wire 1 ' gnd $end
+$var wire 1 ( vcc $end
+$var wire 1 ) unknown $end
+$var tri1 1 * devclrn $end
+$var tri1 1 + devpor $end
+$var tri1 1 , devoe $end
+$var wire 1 - Qa~output_o $end
+$var wire 1 . Qb~output_o $end
+$var wire 1 / Qc~output_o $end
+$var wire 1 0 D~input_o $end
+$var wire 1 1 Clock~input_o $end
+$var wire 1 2 Clock~inputclkctrl_outclk $end
+$var wire 1 3 latch|Q~combout $end
+$var wire 1 4 posDff|Q~feeder_combout $end
+$var wire 1 5 posDff|Q~q $end
+$var wire 1 6 negDff|Q~feeder_combout $end
+$var wire 1 7 negDff|Q~q $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+x#
+0$
+0%
+x&
+0'
+1(
+x)
+1*
+1+
+1,
+x-
+0.
+0/
+00
+01
+02
+x3
+04
+05
+06
+07
+$end
+#64512
+1"
+10
+0&
+16
+14
+#80000
+1!
+11
+12
+1&
+13
+1-
+1#
+15
+1.
+1$
+#97280
+0"
+00
+0&
+06
+04
+03
+0-
+0#
+#117760
+1"
+10
+1&
+16
+14
+13
+1-
+1#
+#143360
+0"
+00
+0&
+06
+04
+03
+0-
+0#
+#160000
+0!
+01
+02
+1&
+#174080
+1"
+10
+0&
+16
+14
+#214016
+0"
+00
+1&
+06
+04
+#240000
+1!
+11
+12
+0&
+05
+0.
+0$
+#253952
+1"
+10
+1&
+16
+14
+13
+1-
+1#
+#273408
+0"
+00
+0&
+06
+04
+03
+0-
+0#
+#286720
+1"
+10
+1&
+16
+14
+13
+1-
+1#
+#320000
+0!
+01
+02
+0&
+17
+1/
+1%
+#334848
+0"
+00
+1&
+06
+04
+#400000

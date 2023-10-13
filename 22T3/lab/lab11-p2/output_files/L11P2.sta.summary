@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'y.s3'
+Slack : -7.228
+TNS   : -37.765
+
+Type  : Slow Model Setup 'Clock'
+Slack : -6.305
+TNS   : -71.340
+
+Type  : Slow Model Setup 'memory_block:mem_blk|altsyncram:altsyncram_component|altsyncram_2cc1:auto_generated|q_a[0]'
+Slack : -0.544
+TNS   : -1.956
+
+Type  : Slow Model Hold 'Clock'
+Slack : -1.726
+TNS   : -2.657
+
+Type  : Slow Model Hold 'memory_block:mem_blk|altsyncram:altsyncram_component|altsyncram_2cc1:auto_generated|q_a[0]'
+Slack : -1.241
+TNS   : -11.224
+
+Type  : Slow Model Hold 'y.s3'
+Slack : 0.325
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'Clock'
+Slack : -2.064
+TNS   : -160.313
+
+Type  : Slow Model Minimum Pulse Width 'memory_block:mem_blk|altsyncram:altsyncram_component|altsyncram_2cc1:auto_generated|q_a[0]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'y.s3'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Setup 'y.s3'
+Slack : -2.315
+TNS   : -10.751
+
+Type  : Fast Model Setup 'Clock'
+Slack : -1.879
+TNS   : -25.247
+
+Type  : Fast Model Setup 'memory_block:mem_blk|altsyncram:altsyncram_component|altsyncram_2cc1:auto_generated|q_a[0]'
+Slack : 0.155
+TNS   : 0.000
+
+Type  : Fast Model Hold 'Clock'
+Slack : -1.100
+TNS   : -2.141
+
+Type  : Fast Model Hold 'memory_block:mem_blk|altsyncram:altsyncram_component|altsyncram_2cc1:auto_generated|q_a[0]'
+Slack : -0.624
+TNS   : -5.515
+
+Type  : Fast Model Hold 'y.s3'
+Slack : 0.114
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'Clock'
+Slack : -2.000
+TNS   : -152.380
+
+Type  : Fast Model Minimum Pulse Width 'memory_block:mem_blk|altsyncram:altsyncram_component|altsyncram_2cc1:auto_generated|q_a[0]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'y.s3'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------

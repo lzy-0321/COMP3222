@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\cse\Desktop\projects_3222\simulation\qsim
+vlight
+Z1 !s100 jBQOhT9Xe^C_^<2F0>kog3
+Z2 IDeMoYaZP=GX;1aHK8[]H80
+Z3 V<X>;[O2;znUk0VMemUTWA2
+Z4 dC:\Users\cse\Desktop\projects_3222\simulation\qsim
+Z5 w1694654215
+Z6 8light.vo
+Z7 Flight.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|light.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1694654215.915000
+Z12 !s107 light.vo|
+!s101 -O0
+vlight_vlg_check_tst
+!i10b 1
+Z13 !s100 HLn34Z1=XYYa@VS:g_n0_1
+Z14 I1fHJLZSzH4<QaWoQA`ncO0
+Z15 Vh_[_k?ZM@DPYA6BHV62m82
+R4
+R5
+Z16 8light.vt
+Z17 Flight.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z18 !s108 1694654215.993000
+Z19 !s107 light.vt|
+Z20 !s90 -work|work|light.vt|
+!s101 -O0
+R10
+vlight_vlg_sample_tst
+!i10b 1
+Z21 !s100 dR0hLO9`o<NMW5W?S]bi41
+Z22 IDYC`UY`U=HG7;lza1VFbz0
+Z23 V3fbSO?WL8[zEh1IlDPd=^0
+R4
+R5
+R16
+R17
+L0 29
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+vlight_vlg_vec_tst
+!i10b 1
+Z24 !s100 c887E8FEU>eIOfW>G]gNM0
+Z25 I5?CIhAdh3@<W_Q^=3V:Ck1
+Z26 V;IThR5jgidSm]hb5A0b_=3
+R4
+R5
+R16
+R17
+Z27 L0 154
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10

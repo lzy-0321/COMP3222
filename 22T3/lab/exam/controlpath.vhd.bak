@@ -1,0 +1,30 @@
+library IEEE;
+use ieee.std_logic_1164.all;
+use work.definitions.all;
+
+entity controlpath is
+	port (clk : in std_logic;
+			resetn : in std_logic;
+			loadn : in std_logic;
+			dm : out DISPLAY_MSG_TYPE; 
+
+			-- ADD YOUR SIGNALS AS NEEDED BELOW THIS LINE
+			--
+			-- UPDATE COMPONENT DECLARATION IN PACKAGE.VHD 
+			-- TO CORRESPOND WITH YOUR ADDITIONS
+			
+			
+		  );	  
+end controlpath;
+
+architecture behaviour of controlpath is
+
+	-- ADD YOUR SIGNALS AS NEEDED BELOW THIS LINE
+
+
+begin
+
+	-- ADD YOUR CONTROL PATH DESCRIPTION AS NEEDED BELOW THIS LINE
+	
+
+end behaviour;

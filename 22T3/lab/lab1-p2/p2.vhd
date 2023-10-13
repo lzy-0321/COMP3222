@@ -1,0 +1,15 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+ENTITY p2 IS
+	PORT ( SW : IN STD_LOGIC_VECTOR(9 DOWNTO 0);
+		LEDG : OUT STD_LOGIC_VECTOR(3 DOWNTO 0));
+END p2;
+
+ARCHITECTURE Behavior OF p2 IS
+BEGIN
+	LEDG(0) <= (NOT SW(9) AND SW(0)) OR (SW(9) AND SW(4));
+	LEDG(1) <= (NOT SW(9) AND SW(1)) OR (SW(9) AND SW(5));
+	LEDG(2) <= (NOT SW(9) AND SW(2)) OR (SW(9) AND SW(6));
+	LEDG(3) <= (NOT SW(9) AND SW(3)) OR (SW(9) AND SW(7));
+END Behavior;

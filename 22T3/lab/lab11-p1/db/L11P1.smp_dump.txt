@@ -1,0 +1,7 @@
+
+State Machine - |L11P1|y_Q
+Name y_Q.waitForNext y_Q.S3 y_Q.S2 y_Q.S1 
+y_Q.S1 0 0 0 0 
+y_Q.S2 0 0 1 1 
+y_Q.S3 0 1 0 1 
+y_Q.waitForNext 1 0 0 1 
